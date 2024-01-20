@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../Services/billing/billing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/config-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/customer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/inventory-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Services/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/config-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/inventory-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ms-emset/order-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
